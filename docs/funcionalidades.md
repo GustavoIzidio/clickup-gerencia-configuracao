@@ -18,6 +18,14 @@ As tarefas podem receber diferentes níveis de prioridade, permitindo destacar a
 
 As visualizações podem utilizar filtros para apresentar somente as tarefas que atendem a determinados critérios, facilitando a organização das atividades.
 
+Entre os critérios de filtragem podem estar:
+
+- Status;
+- Prioridade;
+- Data;
+- Responsável;
+- Tags.
+
 ## 5. Dependências
 
 As tarefas podem possuir relações de dependência, permitindo representar situações em que uma atividade depende da conclusão de outra.
